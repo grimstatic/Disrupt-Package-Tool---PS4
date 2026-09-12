@@ -1,7 +1,7 @@
 # Disrupt-Package-Tool---PS4
 
 A pack/unpack/verify tool for the .fat/.dat game archives for PS4
-release of Watch_Dogs (2014), including PS4 retail.
+release of Watch_Dogs (2014).
 
 CREDITS
 ---------
