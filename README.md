@@ -48,7 +48,7 @@ already on it). When it's done, "FAT3Tool.exe" will be waiting in the new
 FEATURES
 ------------------------
 
-Archive support (WIP)
+Archive support
   - It should read and write every .fat/.dat archive Watch_Dogs (Retail) ships on
     PS4: common, patch, patch1, shaders, shadersobj, sound (+ every
     language), videos, all three DLC packs, and windy_city (+ language/
